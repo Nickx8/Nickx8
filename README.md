@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="./hacker_banner_v2.svg" width="100%">
-</p>
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=%3E%20whoami&fontSize=45&fontColor=00FF41&fontAlignY=35&animation=fadeIn&desc=cybersecurity%20%7C%20blue%20team%20%7C%20offensive%20research&descAlignY=55&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=root%40kali%3A~%23+initiating_recon...;analyzing_threat_surface...;deploying_countermeasures...;access_granted." />
@@ -15,6 +10,8 @@
 
 ```bash
 Nikhil Kalokhe
+
+Currently looking for an entry-level cybersecurity opportunity where I can apply my skills, gain practical experience, and continue learning.
 ```
 
 ```yaml
@@ -111,7 +108,7 @@ $HOME/projects
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](linkedin.com/in/nikhil-kalokhe-x1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/nikhil-kalokhe-x1)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Nickx8)
 [![Gmail](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](nikhilkalokhe50@gmail.com)
 
