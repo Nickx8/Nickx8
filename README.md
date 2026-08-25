@@ -102,7 +102,7 @@ $HOME/projects
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/nikhil-kalokhe-x1)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Nickx8)
-[![Gmail](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](gmail:nikhilkalokhe50@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](gmail.com:nikhilkalokhe50@gmail.com)
 
 </div>
 
