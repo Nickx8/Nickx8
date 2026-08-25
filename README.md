@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=%3E%20whoami&fontSize=45&fontColor=00FF41&fontAlignY=35&animation=fadeIn&desc=cybersecurity%20%7C%20blue%20team%20%7C%20offensive%20research&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=%3E%20whoami&fontSize=45&fontColor=00FF41&fontAlignY=35&animation=fadeIn&desc=Cybersecurity%20%7C%20Blue%20Team%20%7C%20oOffensive%20Research&descAlignY=55&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=root%40kali%3A~%23+initiating_recon...;analyzing_threat_surface...;deploying_countermeasures...;access_granted." />
 
@@ -9,17 +9,8 @@
 ## ⚡ ABOUT ME
 
 ```bash
-Nikhil Kalokhe
-
 Currently looking for an entry-level cybersecurity opportunity
 where I can apply my skills, gain practical experience, and continue learning.
-```
-
-```yaml
-> Cybersecurity graduate focused on offensive & defensive security
-> Passionate about threat modeling, malware analysis, and digital forensics
-> I break things to understand how to defend them
-> Always mapping the attack surface before the defenders do
 ```
 
 <br>
