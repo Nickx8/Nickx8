@@ -11,7 +11,8 @@
 ```bash
 Nikhil Kalokhe
 
-Currently looking for an entry-level cybersecurity opportunity where I can apply my skills, gain practical experience, and continue learning.
+Currently looking for an entry-level cybersecurity opportunity
+where I can apply my skills, gain practical experience, and continue learning.
 ```
 
 ```yaml
